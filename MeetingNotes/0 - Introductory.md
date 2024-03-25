@@ -75,3 +75,8 @@ Task: A requestform application - allows users to create accounts, post requests
 ## Next Time:
 - Refine ideas
 - Will either be on Teams or in-person - in-person if possible
+
+## Conclusion
+- Selection of idea, potential style
+- Idea of possible features
+- Planning session
