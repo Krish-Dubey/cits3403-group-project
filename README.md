@@ -7,6 +7,9 @@ To create schedules of study groups and their meetings. Plan dates, tag your uni
 a table with each row containing the i) UWA ID ii) name and iii) Github user name of the group members.
 
 23724285, Krish Dubey, Krish-Dubey
+23924286, Atticus Bond, HyperCherrim
+23631345, Callum Greenwald, CallumGreenwald
+23120741, Nathan Foley, Nathan-Foley
 
 a brief summary of the architecture of the application.
 
